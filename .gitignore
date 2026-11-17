@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+run_log.txt
+run_nn_log.txt
+_example*
+_nn_cell*
+_build_notebook.py
+_run_nn_only.py
+*.log
+Вопросы_для_защиты.md

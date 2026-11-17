@@ -1,0 +1,9 @@
+﻿Метод,Параметры
+kNN,"k=23, distance, manhattan, StandardScaler"
+SVM,"rbf, C=10, gamma=0.01, веса=balanced, StandardScaler"
+LDA,"lsqr, shrinkage=0.1, StandardScaler"
+Дерево,"depth=3, leaf=10, entropy"
+GaussianNB,"StandardScaler, var_smoothing=1"
+BernoulliNB,"MinMaxScaler, порог=0.4, alpha=10"
+ComplementNB,"MinMaxScaler, alpha=1"
+MultinomialNB,"MinMaxScaler, alpha=1"
