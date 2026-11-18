@@ -9,5 +9,7 @@ _example*
 _nn_cell*
 _build_notebook.py
 _run_nn_only.py
+_capture_tb.py
+_patch_tb_ui.py
 *.log
 Вопросы_для_защиты.md
